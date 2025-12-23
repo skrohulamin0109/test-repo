@@ -1,0 +1,1 @@
+This is a file to test the "touch" command to create file inside a folder form the terminal or the bash.
